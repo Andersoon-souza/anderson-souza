@@ -3,7 +3,7 @@
 
 Sou Anderson, graduado em Ciências Econômicas pela Universidade Cruzeiro do Sul e graduando de Análise e Desenvolvimento de Sistemas. 
 Trabalhei durante muitos anos na área comercial e financeira, em 2023 optei por fazer uma transição de carreira para a área de dados.
-Trabalhei como Engenheiro de Dados na Confi, uma startup de tecnologia que atua no e-commerce brasileiro com um ecossistema próprio, onde
+Tive a oportunidade de atuar como Engenheiro de Dados na Confi, uma startup de tecnologia que atua no e-commerce brasileiro com um ecossistema próprio, onde
 obtive experiência prática e pude testar meu conhecimento em dados e suas ferramentas.
 
 Desenvolvi habilidades sólidas em SQL (bancos SQL Server e PostgreSQL), modelagem de dados e implementação de pipelines utilizando as ferramentas
