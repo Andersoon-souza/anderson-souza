@@ -17,7 +17,7 @@ Você pode me encontrar nos seguintes canais: [LinkedIn](https://www.linkedin.co
 
 ## 💡 Projetos:  
 
-- 🖥️ Interessado em ver mais do meu trabalho? Confira meu portfólio [aqui](https://anderson-souza.carrd.co/). PS: Em construção..
+- 🖥️ Interessado em ver mais do meu trabalho? Confira meu portfólio [aqui](https://anderson-souza-portfolio.carrd.co/). PS: Em construção..
 
 
   
